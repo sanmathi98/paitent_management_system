@@ -1,0 +1,6 @@
+{
+  "name": "CareLedger Clinical — Patient Management System",
+  "description": "Clinical Patient Management, Billing, and Razorpay Payment System built with React, TypeScript, Django REST Framework, and MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
